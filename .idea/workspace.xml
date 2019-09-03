@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ad252a2-d64f-4344-a03e-57f7d30c78d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algdes-labs" beforeDir="false" afterPath="$PROJECT_DIR$/algdes-labs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algdes-labs/matching/data/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/algdes-labs/matching/data/scriptExample.sh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/algdes-labs/matching/data/sm-bbt-in.txt" beforeDir="false" />
@@ -42,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/algdes-labs" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Q6yIkkx3YKyK3G1ZuQIQ7AAQcY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
